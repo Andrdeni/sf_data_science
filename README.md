@@ -49,7 +49,7 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 :arrow_up:[к оглавлению](https://github.com/Andrdeni/sf_data_science/blob/main/README.md#Оглавление)
 
 
-### Результаты:  
+### Результат:  
 Написана функция, которая будет справляться с угадыванием меньше чем за 20 попыток.
 
 :arrow_up:[к оглавлению](https://github.com/Andrdeni/sf_data_science/blob/main/README.md#Оглавление)
