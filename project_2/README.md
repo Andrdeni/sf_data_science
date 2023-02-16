@@ -4,8 +4,8 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 # Проект 2. Анализ вакансий компаний с сайта Head Hunter.
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Andrdeni/sf_data_science/blob/main/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Andrdeni/sf_data_science/blob/main/README.md#Какой-кейс-решаем)  
+[1. Описание проекта](https://github.com/Andrdeni/sf_data_science/project_2/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Andrdeni/sf_data_science/project_2/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/Andrdeni/sf_data_science/blob/main/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Andrdeni/sf_data_science/blob/main/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/Andrdeni/sf_data_science/blob/main/README.md#Результат)    
